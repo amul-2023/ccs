@@ -4,6 +4,7 @@ spring:
     url: jdbc:mysql://localhost:3306/inventorymgmtdb
     username: root
     password: root
+    name: amul
   jpa:
     generate-ddl: false
     show-sql: true
